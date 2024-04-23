@@ -2,7 +2,7 @@ const artistas = [
     {
         nombre: "Kim Drakula",
         profesion: "Cantante.",
-        imagen: "img/kimdrakula.jpg.jpg",
+        imagen: "img/kimdrakula.jpg",
         descripcion: "Artista australiano de música alternativa/indie de Hobart, Tasmania, cuyas canciones han alcanzado popularidad en TikTok."
     },
     {
